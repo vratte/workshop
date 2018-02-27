@@ -20,7 +20,11 @@ On every golden scale!
 How cheerfully he seems to grin  
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
-## Second Verse
+Two roads diverged in a yellow wood,  
+And sorry I could not travel both  
+And be one traveler, long I stood  
+And looked down one as far as I could  
+To where it bent in the undergrowth;  
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
 ## Third Verse
