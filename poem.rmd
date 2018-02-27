@@ -13,7 +13,11 @@ Our project will be done using a sequence of save and commits and branch actions
 <!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
 you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
 
-## First Verse 
+How doth the little crocodile  
+Improve his shining tail,  
+And pour the waters of the Nile  
+On every golden scale!  
+How cheerfully he seems to grin  
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
 ## Second Verse
