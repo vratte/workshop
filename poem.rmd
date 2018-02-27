@@ -22,5 +22,14 @@ you, if you change any of this the git program will notice it and compromise you
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
-## Last Verse
+The rose is a rose,  
+And was always a rose.  
+But the theory now goes  
+That the apple's a rose,  
+And the pear is, and so's  
+The plum, I suppose.  
+The dear only knows  
+What will next prove a rose.  
+You, of course, are a rose -  
+But were always a rose.  
 <!--Put a short poem of your choice 8-20 lines,here!-->
